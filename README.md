@@ -1,0 +1,2 @@
+# GitGood
+CMPM 120
